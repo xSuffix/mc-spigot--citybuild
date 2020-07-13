@@ -1,0 +1,9 @@
+main: janfr.citybuild.Main
+name: Citybuild
+description: A plugin for managing Cities and roleplay.
+version: 0.0.1
+author: JanF
+
+commands:
+  City:
+    description: Manage City
