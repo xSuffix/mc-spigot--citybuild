@@ -4,7 +4,17 @@
 
 ## Diary
 
-<details>
+<details><br> 
+<summary>Day 2</summary>
+
+**Setup GitHub Project**
+- Create local repository via GitHub Desktop
+- Copy project files to repository
+- Upload project and make public
+- Start writing this diary :)
+</details>
+
+<details><br>
 <summary>Day 1</summary>
  
 **Basic Project Setup**
